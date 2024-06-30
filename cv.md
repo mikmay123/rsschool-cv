@@ -2,8 +2,11 @@
 
 # Contact info
 
+===
 **phone number** : +375 25 53 73 990
+===
 **e-mail address** : mikhail.mayorov1@gmail.com
+===
 **discord** : Mikhail Mayorov (@mikmay123)
 
 # About me
@@ -15,6 +18,10 @@
 * Hands-on experience working with HubSpot CRM, utilizing its features for lead management, customer relationship management, and sales pipeline tracking.
 * I am proficient in using MS Office suite, including Word, Excel, and PowerPoint, for creating and formatting documents, managing data, and preparing presentations.
 * I have also worked with Smartcat, a translation management platform, for efficient and accurate translation projects, ensuring consistency in linguistic output.
+
+# Code Sample
+
+`print ('Hello, World!')`
 
 # Work Experience
 
