@@ -2,12 +2,9 @@
 
 # Contact info
 
-===
-**phone number** : +375 25 53 73 990
-===
-**e-mail address** : mikhail.mayorov1@gmail.com
-===
-**discord** : Mikhail Mayorov (@mikmay123)
+* **phone number** : +375 25 53 73 990
+* **e-mail address** : mikhail.mayorov1@gmail.com
+* **discord** : Mikhail Mayorov (@mikmay123)
 
 # About me
 
